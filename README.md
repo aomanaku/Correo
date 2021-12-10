@@ -15,7 +15,7 @@ Project Members:
 0874768 Zhijie Zhang
 
 
-# 1, Glossary:
+#  Glossary:
 
 Application - foremost layer that is used to install the applications in the devices.
 Application Framework - It is the third layer. It serves the services to the
@@ -56,7 +56,7 @@ components of an Activity or Dialog screen (text boxes, windows, and so on).
 
 
 
-# 3. (a): Screenshot of Successful scenarios
+#  Screenshot of Successful scenarios
 
 ![Login](https://user-images.githubusercontent.com/71609080/145503399-33946f1a-1eea-461f-b42c-e990ff6ba139.jpg)
 
@@ -67,7 +67,7 @@ components of an Activity or Dialog screen (text boxes, windows, and so on).
 ![Chatroom](https://user-images.githubusercontent.com/71609080/145503350-9591b838-f302-4124-a162-ee10b28ad1fe.jpg)
 
 
-# Scenario 1) Log- In
+#  Scenario 1) Log- In
 
 
 This is the very first scenario where the First time user can go to create a new
@@ -75,31 +75,43 @@ This is the very first scenario where the First time user can go to create a new
 Correro account or the existing user can log in into the chat.
 If the User Inputs the incorrect Email, or Password than the system will display
 error messages (screenshots below).
-Screenshot of Email error
-Screenshot of Password Error
+
+![InvalidPassword](https://user-images.githubusercontent.com/71609080/145504938-99a3f8ba-3bc7-4083-a3e7-4b673e3d6437.jpg)
+
+![FireBase_Auth](https://user-images.githubusercontent.com/71609080/145504995-2e2394a9-b69a-4e94-9e35-0ee77f26b2c0.jpg)
+
 Session log displayed in the Firebase 
 
-#Scenario 2) Registration (creating Account)
+#  Scenario 2) Registration (creating Account)
 
 This is one of the scenarios that is utilized the first-timers. After clicking on “Don’t
 have account?” button, the user will be send to this credential creation screen,
 where the user can register his ID and password.
-Scenario 3) Selecting Chat room
+
+![Signup](https://user-images.githubusercontent.com/71609080/145503407-d64452da-db28-4c65-a486-0e937221ee7f.jpg)
+
+
+# Scenario 3) Selecting Chat room
 Here the user can select the chatroom that they are currently participating in.
-Below is the button for when the user wants to create a new chat room.
-Screenshots of New Chat room creation
+
+![Users](https://user-images.githubusercontent.com/71609080/145503418-85a44faf-0178-4466-b592-73b48af8a951.jpg)
 
 
-Creation of new chat
-Firebase Realtime Database log
-Scenario 4 and 5) Sending/Receiving chat and uploading emoji
+
+# Scenario 4 and 5) Sending/Receiving chat and uploading emoji
+
 Here the User can start chatting with other users that have access to this chat.
 Aside from sending and receiving messages, the user can add emojis that will be
 sent alongside the message, or just emoji independently.
+
 Screenshot of the Firebase Realtime database of the chat that was used
 
+![0ffaa439bf0289b90628d12eab95c31](https://user-images.githubusercontent.com/71609080/145504897-fc15d5ca-9a01-481b-b0d9-4ba021770a4b.jpg)
 
-# 3. (e) User Manual:
+![a1d15af57f3d92652694510a49ecc67](https://user-images.githubusercontent.com/71609080/145504975-f3fbc67a-d388-4923-b86d-b3287a014440.jpg)
+
+
+# 3.  User Manual:
 
 
 Step 1: Run the code and initiate the Log-in Scenario. If you are a first-time user,

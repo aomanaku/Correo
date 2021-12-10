@@ -56,7 +56,7 @@ components of an Activity or Dialog screen (text boxes, windows, and so on).
 
 
 
-#3. (a): Screenshot of Successful scenarios
+# 3. (a): Screenshot of Successful scenarios
 
 ![Login](https://user-images.githubusercontent.com/71609080/145503399-33946f1a-1eea-461f-b42c-e990ff6ba139.jpg)
 
@@ -67,7 +67,7 @@ components of an Activity or Dialog screen (text boxes, windows, and so on).
 ![Chatroom](https://user-images.githubusercontent.com/71609080/145503350-9591b838-f302-4124-a162-ee10b28ad1fe.jpg)
 
 
-#Scenario 1) Log- In
+# Scenario 1) Log- In
 
 
 This is the very first scenario where the First time user can go to create a new
@@ -99,7 +99,7 @@ sent alongside the message, or just emoji independently.
 Screenshot of the Firebase Realtime database of the chat that was used
 
 
-#3. (e) User Manual:
+# 3. (e) User Manual:
 
 
 Step 1: Run the code and initiate the Log-in Scenario. If you are a first-time user,
@@ -125,5 +125,5 @@ chat room name.
 Step 5: Once you have enter into your chatroom, you can type in the message you
 wish to send. After you finish typing, just simply press Send.
 
-#3. (e) Git/SVN links
+# 3. (e) Git/SVN links
 https://github.com/aomanaku/Correo
